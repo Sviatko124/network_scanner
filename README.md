@@ -5,3 +5,5 @@ This tool's function is to change your scan your network for all devices connect
 To run the tool, just type: python3 network_scanner.py and then the appropriate arguments.
 
 To get a list of arguments, type -h after the program name.
+
+IMPORTANT! This tool is only for educational purposes only and is to be used with consent. Misuse of this tool can get you into serious trouble and I do not encourage illegal shenanigans. Thank you. 
